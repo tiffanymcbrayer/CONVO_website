@@ -1,6 +1,6 @@
 # CONVO
 
-This website provides users with phrases and conversations in a foreign language for various tasks, helping them develop new vocabulary and practice speaking conversationally.
+This website uses GPT-3 to generate phrases and conversations in foreign languages, helping users learn new phrases and practice conversational speaking..
 
 Example: https://www.youtube.com/watch?v=5iiyhAnJjQQ
 
