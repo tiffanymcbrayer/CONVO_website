@@ -1,0 +1,15 @@
+#hello_div{
+    padding-top:  10px;
+    padding-bottom:  10px;
+    color: blue;
+}
+
+/* color: rgb(183, 202, 219)  blue */
+
+.background{
+    background-color:  rgb(183, 202, 219);
+}
+
+.form_size{
+    font-size: 30px;;
+}
